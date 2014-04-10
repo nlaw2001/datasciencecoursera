@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Cousera work
